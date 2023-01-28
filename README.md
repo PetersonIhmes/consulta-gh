@@ -1,6 +1,5 @@
 # Consulta de Repositorio
 
-[Deploy](https://petersonihmes.github.io/consulta-gh/)
 ![Screenshot_20230128-174915](https://user-images.githubusercontent.com/118133517/215290582-161f91b4-bd60-4e9c-9a0c-4247ed7f3ae9.png)
 
  Ferramentas
