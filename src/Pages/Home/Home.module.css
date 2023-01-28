@@ -1,0 +1,30 @@
+.title {
+	display: flex;
+	justify-content: center;
+	margin-top: 3rem 0;
+}
+.search {
+	width: 100%;
+	display: flex;
+	margin-bottom: 2rem;
+}
+.search input {
+	width: 80%;
+	padding: 10px 20px;
+	border-radius: 15px 0 0 15px;
+	border: 1px solid #ccc;
+}
+.search input:focus-visible {
+	outline: none;
+}
+.search button {
+	width: 20%;
+	border: none;
+	cursor: pointer;
+	font-size: 14px;
+	text-transform: uppercase;
+	border-radius: 0 15px 15px 0;
+}
+.search button:houver {
+	background-color: #20B2AA;
+}

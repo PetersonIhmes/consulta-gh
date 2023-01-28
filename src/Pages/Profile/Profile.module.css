@@ -1,0 +1,27 @@
+.details_user {
+	display: flex;
+	width: 100%;
+}
+.details {
+	margin: 1rem 0 2rem 0;
+	display: flex;
+	width: 100%;
+	align-items: center;
+}
+.details img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin-right: 1rem ;
+}
+.user {
+	width: 100%;
+	
+}
+.follors_details {
+	margin-right: 1rem;
+}
+.username_details {
+	margin-top: 1rem;
+	
+}
